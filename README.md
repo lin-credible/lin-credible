@@ -2,4 +2,4 @@
 
 > `linux` `js` `php` `go` ...... 🚀
 
-<img height="248" alt="mambaforever" src="https://user-images.githubusercontent.com/3191641/159297002-702bc10d-ed81-4dd5-9c07-01048b99c2f2.png">
+<img height="248" alt="mambaforever" src="https://user-images.githubusercontent.com/3191641/159390307-cdbba98a-3dd5-47e4-92ce-643224c7de21.png">

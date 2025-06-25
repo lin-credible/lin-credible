@@ -1,7 +1,7 @@
 ### About Me
 **`Developer`, `Learner`, `Father[daughter]`**
 <br />
-I'm an full-stack developer. I'm learning something about [XR](https://en.wikipedia.org/wiki/Mixed_reality) now (beginner).
+I'm a full stack developer, currently focusing more on the `web`.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linuxtaolinran@gmail.com)](mailto:linuxtaolinran@gmail.com) [![X Badge](https://img.shields.io/badge/-Lin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/colintao404)](https://x.com/colintao404)
 
